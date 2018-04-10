@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://hb.12348.gov.cn/files/ios/phone/tj12348.ipa</string>
+                        <string>http://hb.12348.gov.cn/files/ios/phone/hb12348.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
