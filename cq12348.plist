@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://219.152.170.145:8088/wechat/files/ios/phone/cq12348.ipa</string>
+                        <string>http://cq.12348.gov.cn/wechat/files/ios/phone/cq12348.ipa</string>
                     </dict>
 
                     <!-- display-image: the icon to display during download. -->
@@ -40,7 +40,7 @@
                     <key>bundle-identifier</key>
                     <string>com.example.remoteresourceapp</string>
                     <key>bundle-version</key>
-                    <string>1.0.1</string>
+                    <string>3.0.0</string>
                     <key>kind</key>
                     <string>software</string>
                     <key>title</key>
