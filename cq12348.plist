@@ -38,7 +38,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.example.remoteresourceapp</string>
+                    <string>com.skytech.fw.chongqing</string>
                     <key>bundle-version</key>
                     <string>3.0.0</string>
                     <key>kind</key>
