@@ -22,7 +22,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://219.152.170.145:8088/wechat/files/ios/phone/icon.png</string>
+                        <string>http://cq.12348.gov.cn/wechat/files/ios/phone/icon.png</string>
                     </dict>
                     
                     <!-- full-size-image: the large 512×512 icon used by iTunes. -->
@@ -32,7 +32,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://219.152.170.145:8088/wechat/files/ios/phone/itunes-icon.png</string>
+                        <string>http://cq.12348.gov.cn/wechat/files/ios/phone/itunes-icon.png</string>
                     </dict>                    
                 </array>
                 <key>metadata</key>
